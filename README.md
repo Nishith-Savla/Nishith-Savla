@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishith-savla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishith-savla&column=10" alt="nishith-savla" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishith-savla&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Nishith-Savla's Profile Trophies" /></a> </p>
 
 - 🌱 I’m currently learning **GoLang**
 
-- 💬 Ask me about **Javascript, React JS, Python, Selenium, Git, Linux, GoLang**
+- 💬 Ask me about **GoLang, Javascript, React JS, Python, Selenium, Git, Linux**
 
 - 📫 How to reach me **nishithsavla005+github@gmail.com**
 
