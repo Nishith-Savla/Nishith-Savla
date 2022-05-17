@@ -1,9 +1,8 @@
 <img alt="Header" src="./github-header-image.png" />
-<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishith-savla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishith-savla&title=Commit,Stars,Followers,Repositories,Issues,PullRequest" alt="nishith-savla" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishith-savla&column=10" alt="nishith-savla" /></a> </p>
 
 - 🌱 I’m currently learning **GoLang**
 
