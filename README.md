@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishith-savla&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Nishith-Savla's Profile Trophies" /></a> </p>
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **GoLang & Flutter**
 
-- 💬 Ask me about **GoLang, Javascript, React JS, Python, Selenium, Git, Linux**
+- 💬 Ask me about **GoLang, Flutter, Javascript, ReactJS, Python, Selenium, Git, Linux**
 
 - 📫 How to reach me **nishithsavla005+github@gmail.com**
 
